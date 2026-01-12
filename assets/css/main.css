@@ -1,0 +1,67 @@
+@import url("./objects.css");
+
+:root{
+  margin: 20px;
+}
+
+.w-full{
+  width: 95vw !important;
+}
+
+.h-full{
+  height: 99dvh !important;
+}
+
+.d-block{
+  display: block !important;
+}
+
+.card{
+  border-radius: 20px !important;
+  box-shadow: 2px 2px 5px #F8F8F8 !important;
+}
+
+.m-s{
+  margin: 1px !important;
+}
+
+.wff{
+  width: 90% !important;
+}
+
+.hff{
+  height: 90% !important;
+}
+
+.ctn-styles{
+  width: 90vw;
+  height: 70vh;
+  margin: auto auto !important;
+}
+
+.ctn-styles style{
+  padding: 15px;
+  font-size: x-large;
+}
+
+.ctn-styles style:focus{
+  border: none;
+  outline: none;
+}
+
+#objects{
+  display: flex;
+  height: 80px;
+  margin: auto auto !important;
+  top: 20px;
+  transform: translateY(30px);
+  overflow: scroll;
+}
+
+footer, h1{
+  text-align: center;
+}
+
+footer a,h1 a{
+  color: #FFD22F;
+}

@@ -1,0 +1,26 @@
+.ctn-objs{
+  width: 100% !important;
+  z-index: 91;
+  display: flex;
+}
+
+.obj1, .obj2, .obj3,
+.obj4, .obj5{
+  width: 90px;
+  aspect-ratio: 1/1;
+  background: blue;
+  margin: 2px;
+  border: dashed 1px red;
+}
+
+.obj1{
+  
+}
+
+.obj2{}
+
+.obj3{}
+
+.obj4{}
+
+.obj5{}
