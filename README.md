@@ -7,7 +7,7 @@
 
 ## Usage
 
-Just open the link in the right-hand description: https://dev2forge.is-a.software/CSS-EOQ/
+Just open the link in the right-hand description: https://css-eoq.is-a.software
 
 ## Features
 
