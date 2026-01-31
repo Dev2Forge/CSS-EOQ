@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://css-eoq.is-a.software/sitemap.xml
